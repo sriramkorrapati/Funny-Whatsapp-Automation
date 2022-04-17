@@ -3,7 +3,9 @@
 If you want to trick your friend by sending same message "unlimited time / Large Number of Times" it will usefull for you
 
 
-Install Selenium & pyautogui
+Install Chrome Driver in the path
+
+Install Selenium & pyautogui ("Run in Commond Prompt")
 
 Run in Commond Prompt
 
