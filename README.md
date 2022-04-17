@@ -1,6 +1,6 @@
 # Funny-Whatsapp-Automation
 
-If you want to trick your friend by sending same message "unlimited time / Large Number of Times"
+If you want to trick your friend by sending same message "unlimited time / Large Number of Times" it will usefull for you
 
 
 Install Selenium & pyautogui
