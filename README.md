@@ -2,15 +2,13 @@
 
 If you want to trick your friend by sending same message "unlimited time / Large Number of Times" it will usefull for you
 
-
-Install Chrome Driver in the path
+Pre prerequisite :-
+Google Chrome (Must be Installed)
+Install Chrome Driver (in the path)
 
 Install Selenium & pyautogui ("Run in Commond Prompt")
-
-Run in Commond Prompt
-
-pip install selenium
-pip install pyautogui
+"pip install selenium"
+"pip install pyautogui"
 
 
 Enter Your Contact Name (#AS IT IS IN YOUR PHONE BOOK)
