@@ -6,7 +6,7 @@ name = input("Enter Contact Name: ")
 limit = int(input("Count: "))
 msg = input("Message: ")
 
-driver = webdriver.Chrome(executable_path="/Applications/chromedriver")
+driver = webdriver.Chrome '''(executable_path="Mention Your Executable_Path")'''
 driver.maximize_window()
 driver.get("https://web.whatsapp.com")
 time.sleep(60)
