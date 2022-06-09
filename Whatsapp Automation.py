@@ -43,12 +43,11 @@ def callsearchbar():
 def messagelooping():
     try:
         message = driver.find_element_by_class_name("p3_M1").click()
-        i = 0
         driver.implicitly_wait(5)
-        while i < int(limit):
+        for i in range(limit):
             pag.typewrite(msg)
             pag.press('Enter')
-            i += 1
+
         time.sleep(10)
     except:
         print("Message Sending Problem")
